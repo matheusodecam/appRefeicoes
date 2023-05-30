@@ -1,16 +1,21 @@
-# apprefeicoes
+# Aplicativo das Refeições
 
-A new Flutter project.
+### Conhecendo o aplicativo
 
-## Getting Started
+- **Menu**
+<img src="https://github.com/matheusodecam/appRefeicoes/blob/main/Pictures/menuGridView.png" width="200">
 
-This project is a starting point for a Flutter application.
+- **Drawer**
+<img src="https://github.com/matheusodecam/appRefeicoes/blob/main/Pictures/Drawer.png" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+- **Tela de cada refeição**
+<img src="https://github.com/matheusodecam/appRefeicoes/blob/main/Pictures/telaComidasCategoria.png" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Detalhes da receita**
+<img src="https://github.com/matheusodecam/appRefeicoes/blob/main/Pictures/detalhesReceita.png" width="200">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Configuração**
+<img src="https://github.com/matheusodecam/appRefeicoes/blob/main/Pictures/detalhesReceita.png" width="200">
+
+- **Comidas Favoritas**
+<img src="https://github.com/matheusodecam/appRefeicoes/blob/main/Pictures/comidasFavoritas.png" width="200">
